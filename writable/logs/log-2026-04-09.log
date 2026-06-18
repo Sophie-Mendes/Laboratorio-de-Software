@@ -1,0 +1,134 @@
+CRITICAL - 2026-04-09 12:34:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editora/edit.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/EditoraController.php(47): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\EditoraController->editar()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:22:34 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:23:35 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:23:36 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:24:09 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:24:10 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:24:25 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:24:26 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:24:26 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:24:26 --> Error: Class "Appp\Models\GeneroModel" not found
+in APPPATH/Controllers/GeneroController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\GeneroController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:25:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "genero\index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/GeneroController.php(19): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\GeneroController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:26:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "genero\index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/GeneroController.php(19): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\GeneroController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:26:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "genero\index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/GeneroController.php(19): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\GeneroController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 13:27:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "genero\index.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/GeneroController.php(19): view()
+ 4 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\GeneroController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 14:04:24 --> Error: Class "App\Models\GeneroController" not found
+in APPPATH/Controllers/ObraController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\ObraController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 14:05:11 --> Error: Class "App\Models\GeneroController" not found
+in APPPATH/Controllers/ObraController.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(913): App\Controllers\ObraController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
+CRITICAL - 2026-04-09 14:05:30 --> Error: Undefined constant "App\Controllers\this"
+in APPPATH/Controllers/ObraController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(941): App\Controllers\ObraController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/opt/lampp/htdocs/2026_ci4_biblioteca/public/index.php')
